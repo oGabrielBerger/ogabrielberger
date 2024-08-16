@@ -1,4 +1,6 @@
 <h1 align="center">Welcome, Starlight!</h1>
+<h1 align="center">VEJA O NOSSO DEPARTAMENTO PESSOAL!</h1>
+<h1 align="center">Equipe: Gabriel Berger, Brenda, Eduarda, Alex, Athirson, Alissa.</h1>
 
 <div align="center">
   <a href="https://github.com/oGabrielBerger">
