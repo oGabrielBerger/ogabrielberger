@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, Starlight!</h1>
+<h1 align="center">Welcome!</h1>
 
 <div align="center">
   <a href="https://github.com/oGabrielBerger">
